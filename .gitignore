@@ -1,0 +1,23 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# Private or large datasets
+original_images/
+*.zip
+*.xlsx
+
+# Trained checkpoints
+*.pt
+*.pth
+*.joblib
+
+# Temporary outputs
+C_data/
+C_bags*/
+C_segmentation/
+C_classifier/
+C_predictions*/
