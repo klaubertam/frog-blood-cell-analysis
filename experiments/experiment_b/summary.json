@@ -1,0 +1,9 @@
+{
+  "completed_folds": 5,
+  "evaluated_images": 60,
+  "mean_test_dice": 0.8719759563604991,
+  "mean_test_iou": 0.7866420830289523,
+  "sd_fold_test_dice": 0.030614803324035565,
+  "evaluation": "image-level outer cross-validation; inner validation selects checkpoint",
+  "grid": "letterboxed size, real-image pixels only; no original-resolution metric reported"
+}
