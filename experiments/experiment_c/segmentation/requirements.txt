@@ -1,0 +1,7 @@
+numpy>=1.26
+Pillow>=10
+scipy>=1.11
+scikit-image>=0.22
+scikit-learn>=1.4
+openpyxl>=3.1
+torch>=2.2

@@ -1,0 +1,41 @@
+{
+  "command": "train",
+  "data": ".\\C_data",
+  "out": ".\\C_segmentation",
+  "labels_reviewed": true,
+  "size": 768,
+  "epochs": 50,
+  "patience": 12,
+  "batch_size": 2,
+  "base": 16,
+  "lr": 0.001,
+  "seed": 42,
+  "val_count": 4,
+  "test_count": 5,
+  "rotations": 4,
+  "split": ".\\C_plan\\splits.json",
+  "threads": 4,
+  "classes": [
+    "background",
+    "cytoplasm",
+    "nucleus",
+    "pink_region"
+  ],
+  "ignore_box": [
+    0.76,
+    0.86,
+    1.0,
+    1.0
+  ],
+  "class_weights": [
+    0.616782546043396,
+    0.9970616102218628,
+    2.168135404586792,
+    2.559068202972412
+  ],
+  "training_originals": 21,
+  "training_views_per_epoch": 84,
+  "device": "cpu",
+  "torch": "2.15.0+cpu",
+  "metric_grid": "resized real pixels, excluding padding/ignore regions"
+}

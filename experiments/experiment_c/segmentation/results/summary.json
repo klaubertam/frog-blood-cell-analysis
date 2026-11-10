@@ -1,0 +1,9 @@
+{
+  "best_epoch": 50,
+  "best_validation_macro_foreground_dice": 0.8988841746381874,
+  "test_macro_foreground_dice": 0.904251062763492,
+  "test_images": 5,
+  "whole_cell_dice": 0.9476130702681143,
+  "whole_cell_iou": 0.9004416944911464,
+  "note": "Pooled pixels on resized images. These are not Experiment 2 per-image means."
+}
