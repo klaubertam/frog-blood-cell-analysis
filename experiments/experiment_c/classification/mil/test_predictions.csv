@@ -1,0 +1,6 @@
+id,target,instances,probability_anomaly,status,predicted_label
+59,1,4,0.4659602642059326,classified,0
+70,0,9,0.4723859429359436,classified,0
+126,1,8,0.539692223072052,classified,1
+188,1,10,0.6112577319145203,classified,1
+192,0,8,0.6071043014526367,classified,1

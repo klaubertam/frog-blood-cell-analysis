@@ -1,0 +1,47 @@
+{
+  "outside_original_30": 211,
+  "scored": 211,
+  "abstentions": 0,
+  "coverage": 1.0,
+  "pilot_training_photos": 21,
+  "threshold": 0.5,
+  "majority": {
+    "n": 211,
+    "correct": 143,
+    "accuracy": 0.6777251184834123,
+    "balanced_accuracy": 0.5,
+    "sensitivity": 1.0,
+    "specificity": 0.0,
+    "tn": 0,
+    "fp": 68,
+    "fn": 0,
+    "tp": 143,
+    "auc": null
+  },
+  "random_forest_same_training_photos": {
+    "n": 211,
+    "correct": 140,
+    "accuracy": 0.6635071090047393,
+    "balanced_accuracy": 0.6823323735088441,
+    "sensitivity": 0.6293706293706294,
+    "specificity": 0.7352941176470589,
+    "tn": 50,
+    "fp": 18,
+    "fn": 53,
+    "tp": 90,
+    "auc": 0.7338029617441382
+  },
+  "random_forest_more_training_photos_5fold": {
+    "n": 211,
+    "correct": 149,
+    "accuracy": 0.7061611374407583,
+    "balanced_accuracy": 0.6868058412176059,
+    "sensitivity": 0.7412587412587412,
+    "specificity": 0.6323529411764706,
+    "tn": 43,
+    "fp": 25,
+    "fn": 37,
+    "tp": 106,
+    "auc": 0.7921637186343069
+  }
+}

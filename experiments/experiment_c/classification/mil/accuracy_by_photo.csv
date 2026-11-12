@@ -1,0 +1,242 @@
+﻿foto,group,excel_label,predicted_label,anomaly_score,result
+1,outside original 30,0,0,0.45881539583206177,correct
+10,outside original 30,1,1,0.548401415348053,correct
+100,outside original 30,1,0,0.5036976933479309,incorrect
+101,outside original 30,1,1,0.5678859353065491,correct
+102,outside original 30,1,0,0.5166264176368713,incorrect
+103,outside original 30,1,1,0.5230135917663574,correct
+104,outside original 30,1,1,0.5339003801345825,correct
+105,outside original 30,1,1,0.5655367970466614,correct
+106,outside original 30,1,1,0.5722798705101013,correct
+107,outside original 30,1,1,0.5789820551872253,correct
+108,outside original 30,1,1,0.6141154170036316,correct
+109,outside original 30,1,0,0.5169182419776917,incorrect
+11,outside original 30,1,0,0.5193802714347839,incorrect
+110,original 30,1,1,0.5209711194038391,correct
+112,outside original 30,0,1,0.543045699596405,incorrect
+113,outside original 30,0,1,0.5451350212097168,incorrect
+114,outside original 30,1,1,0.5503581762313843,correct
+115,outside original 30,1,1,0.5697252750396729,correct
+116,outside original 30,1,0,0.49037691950798035,incorrect
+117,outside original 30,1,0,0.5168984532356262,incorrect
+118,original 30,1,0,0.5048121213912964,incorrect
+119,outside original 30,1,1,0.5285937190055847,correct
+12,outside original 30,1,1,0.5726615190505981,correct
+120,outside original 30,1,,,abstain
+121,outside original 30,1,1,0.5496577620506287,correct
+122,outside original 30,1,1,0.5593215823173523,correct
+123,outside original 30,1,0,0.5113471746444702,incorrect
+124,outside original 30,1,0,0.5138885378837585,incorrect
+125,outside original 30,1,0,0.5041688680648804,incorrect
+126,original 30,1,1,0.539692223072052,correct
+127,outside original 30,1,0,0.5107915997505188,incorrect
+128,outside original 30,1,0,0.510262668132782,incorrect
+129,outside original 30,1,0,0.5085603594779968,incorrect
+13,outside original 30,1,1,0.5795465707778931,correct
+130,original 30,1,1,0.588312566280365,correct
+131,outside original 30,1,1,0.5707100033760071,correct
+132,outside original 30,1,1,0.6696365475654602,correct
+133,outside original 30,1,1,0.6059188842773438,correct
+134,outside original 30,1,,,abstain
+135,original 30,1,1,0.5785763263702393,correct
+136,outside original 30,1,1,0.5905510783195496,correct
+137,outside original 30,1,0,0.45917996764183044,incorrect
+138,outside original 30,1,1,0.5603089332580566,correct
+139,original 30,1,1,0.5476676821708679,correct
+14,outside original 30,1,1,0.543346643447876,correct
+140,outside original 30,1,1,0.5405861735343933,correct
+141,outside original 30,1,1,0.616343080997467,correct
+143,outside original 30,1,1,0.6199358701705933,correct
+144,outside original 30,1,1,0.6062601208686829,correct
+145,outside original 30,0,1,0.5994693040847778,incorrect
+146,outside original 30,1,1,0.5537149310112,correct
+147,outside original 30,0,1,0.5495666861534119,incorrect
+148,outside original 30,0,1,0.5428028702735901,incorrect
+149,outside original 30,0,1,0.556979775428772,incorrect
+15,outside original 30,1,1,0.5695157647132874,correct
+150,outside original 30,0,1,0.5483937859535217,incorrect
+151,outside original 30,1,1,0.5505627393722534,correct
+152,outside original 30,0,1,0.5655233263969421,incorrect
+153,outside original 30,0,1,0.5677372217178345,incorrect
+154,outside original 30,1,1,0.5459097623825073,correct
+155,outside original 30,1,1,0.5428233742713928,correct
+156,outside original 30,1,1,0.5372469425201416,correct
+157,outside original 30,1,1,0.5537567734718323,correct
+158,outside original 30,1,1,0.5303100943565369,correct
+159,outside original 30,0,1,0.5611094832420349,incorrect
+16,outside original 30,1,1,0.5889872908592224,correct
+160,outside original 30,0,1,0.564532995223999,incorrect
+161,outside original 30,0,1,0.5574484467506409,incorrect
+162,original 30,1,1,0.5682779550552368,correct
+163,outside original 30,0,1,0.5660904049873352,incorrect
+164,outside original 30,1,1,0.582611083984375,correct
+165,outside original 30,0,1,0.5646771192550659,incorrect
+166,outside original 30,1,1,0.55174320936203,correct
+167,outside original 30,0,1,0.5721917748451233,incorrect
+168,outside original 30,1,1,0.5618292689323425,correct
+169,original 30,0,1,0.5611992478370667,incorrect
+17,outside original 30,1,,,abstain
+170,original 30,1,1,0.5700185894966125,correct
+171,outside original 30,0,1,0.5834516882896423,incorrect
+172,outside original 30,0,1,0.5781864523887634,incorrect
+173,outside original 30,0,1,0.5761151909828186,incorrect
+174,outside original 30,0,1,0.584333598613739,incorrect
+175,outside original 30,0,1,0.6099472641944885,incorrect
+177,outside original 30,1,1,0.592901885509491,correct
+178,outside original 30,1,1,0.6136218905448914,correct
+179,original 30,1,1,0.6074205636978149,correct
+18,outside original 30,1,1,0.5492582321166992,correct
+180,outside original 30,1,1,0.6020823121070862,correct
+181,outside original 30,1,1,0.6392111778259277,correct
+182,outside original 30,1,1,0.6150813102722168,correct
+183,original 30,0,1,0.6000367999076843,incorrect
+184,outside original 30,0,1,0.5996822118759155,incorrect
+185,outside original 30,1,1,0.6182225942611694,correct
+186,original 30,1,1,0.6058968901634216,correct
+187,outside original 30,0,1,0.6205247044563293,incorrect
+188,original 30,1,1,0.6112577319145203,correct
+189,outside original 30,0,1,0.5922860503196716,incorrect
+190,outside original 30,0,1,0.5852137207984924,incorrect
+191,outside original 30,1,1,0.6079466938972473,correct
+192,original 30,0,1,0.6071043014526367,incorrect
+193,outside original 30,0,1,0.5795316100120544,incorrect
+194,outside original 30,0,1,0.5821430087089539,incorrect
+195,outside original 30,0,1,0.6106680035591125,incorrect
+196,outside original 30,1,1,0.5931625366210938,correct
+197,outside original 30,0,1,0.6099182963371277,incorrect
+198,outside original 30,0,1,0.5873826146125793,incorrect
+199,original 30,0,1,0.5934810042381287,incorrect
+2,outside original 30,1,1,0.5598981976509094,correct
+20,outside original 30,1,1,0.522813618183136,correct
+200,outside original 30,1,1,0.5994283556938171,correct
+201,outside original 30,0,1,0.613601803779602,incorrect
+202,outside original 30,1,1,0.6165984272956848,correct
+203,outside original 30,1,1,0.5751492977142334,correct
+204,outside original 30,1,1,0.5630428194999695,correct
+205,outside original 30,1,1,0.5376173257827759,correct
+206,outside original 30,0,1,0.5523993372917175,incorrect
+207,outside original 30,0,1,0.5568224191665649,incorrect
+208,outside original 30,0,1,0.5606870055198669,incorrect
+209,outside original 30,1,1,0.5479031801223755,correct
+21,outside original 30,1,,,abstain
+210,outside original 30,1,0,0.44782382249832153,incorrect
+211,outside original 30,1,0,0.45483434200286865,incorrect
+212,outside original 30,1,0,0.46851682662963867,incorrect
+214,outside original 30,1,0,0.5163808465003967,incorrect
+215,outside original 30,1,0,0.47027450799942017,incorrect
+216,outside original 30,1,0,0.5105203986167908,incorrect
+217,outside original 30,1,0,0.4578322768211365,incorrect
+218,outside original 30,1,0,0.47039908170700073,incorrect
+219,outside original 30,1,0,0.49187296628952026,incorrect
+22,outside original 30,0,0,0.47601497173309326,correct
+220,outside original 30,1,0,0.4763680100440979,incorrect
+221,outside original 30,1,0,0.4495772421360016,incorrect
+222,outside original 30,1,0,0.4500046968460083,incorrect
+223,original 30,0,0,0.4809236526489258,correct
+224,original 30,0,0,0.4749392569065094,correct
+225,original 30,0,0,0.5039939880371094,correct
+226,outside original 30,1,0,0.4672435224056244,incorrect
+227,outside original 30,1,0,0.459978312253952,incorrect
+228,outside original 30,0,0,0.46998414397239685,correct
+229,outside original 30,0,0,0.47884348034858704,correct
+23,outside original 30,1,,,abstain
+230,original 30,0,0,0.4837523400783539,correct
+231,outside original 30,1,0,0.4877852499485016,incorrect
+232,outside original 30,0,0,0.4716115891933441,correct
+233,outside original 30,1,0,0.4924446940422058,incorrect
+234,original 30,0,0,0.4755529761314392,correct
+235,original 30,0,0,0.47477400302886963,correct
+236,outside original 30,1,0,0.48256006836891174,incorrect
+237,outside original 30,1,0,0.4555732011795044,incorrect
+238,outside original 30,1,0,0.45152196288108826,incorrect
+239,outside original 30,1,0,0.4558146297931671,incorrect
+24,original 30,1,0,0.4660014808177948,incorrect
+240,outside original 30,1,0,0.4578004777431488,incorrect
+241,outside original 30,1,0,0.4505379796028137,incorrect
+242,outside original 30,1,0,0.48535510897636414,incorrect
+244,outside original 30,1,0,0.47227248549461365,incorrect
+245,outside original 30,1,1,0.5253546833992004,correct
+246,outside original 30,1,0,0.4607488811016083,incorrect
+247,outside original 30,1,0,0.5131468772888184,incorrect
+248,outside original 30,1,0,0.4761616289615631,incorrect
+249,outside original 30,1,0,0.4747827649116516,incorrect
+25,outside original 30,1,0,0.4968684911727905,incorrect
+250,outside original 30,1,0,0.517227292060852,incorrect
+26,outside original 30,1,0,0.4959072768688202,incorrect
+27,outside original 30,1,,,abstain
+28,outside original 30,1,0,0.4713904559612274,incorrect
+29,outside original 30,0,0,0.47523462772369385,correct
+3,outside original 30,1,1,0.5376620292663574,correct
+30,original 30,1,0,0.4443143606185913,incorrect
+31,outside original 30,1,0,0.4743106961250305,incorrect
+32,outside original 30,1,0,0.45453590154647827,incorrect
+33,outside original 30,0,0,0.479692667722702,correct
+34,outside original 30,0,0,0.4544626474380493,correct
+35,outside original 30,0,0,0.46107688546180725,correct
+36,outside original 30,0,0,0.4980327785015106,correct
+37,outside original 30,0,0,0.45919039845466614,correct
+38,outside original 30,0,0,0.4644048511981964,correct
+39,outside original 30,0,0,0.4865666627883911,correct
+4,outside original 30,1,1,0.5359743237495422,correct
+40,outside original 30,0,0,0.4708365201950073,correct
+41,outside original 30,0,0,0.45706504583358765,correct
+42,original 30,0,0,0.454833060503006,correct
+43,outside original 30,0,0,0.463794469833374,correct
+44,outside original 30,1,0,0.46971288323402405,incorrect
+45,outside original 30,1,0,0.468944787979126,incorrect
+46,outside original 30,1,0,0.47211897373199463,incorrect
+47,outside original 30,0,0,0.45867469906806946,correct
+49,outside original 30,0,0,0.45362600684165955,correct
+5,outside original 30,0,1,0.5237905979156494,incorrect
+50,outside original 30,0,0,0.4854271411895752,correct
+51,outside original 30,1,0,0.46464231610298157,incorrect
+52,original 30,0,0,0.4552360773086548,correct
+53,outside original 30,1,0,0.4527071416378021,incorrect
+54,outside original 30,0,0,0.45953333377838135,correct
+55,outside original 30,0,0,0.48694831132888794,correct
+56,outside original 30,1,0,0.45587971806526184,incorrect
+57,outside original 30,0,0,0.4746706783771515,correct
+59,original 30,1,0,0.4659602642059326,incorrect
+6,outside original 30,1,0,0.5200195908546448,incorrect
+60,outside original 30,0,0,0.4706052839756012,correct
+61,outside original 30,0,0,0.4836191236972809,correct
+62,outside original 30,0,0,0.47532716393470764,correct
+63,original 30,0,0,0.494673490524292,correct
+64,outside original 30,0,0,0.46334922313690186,correct
+65,outside original 30,1,0,0.47747063636779785,incorrect
+66,outside original 30,0,0,0.4735037684440613,correct
+67,outside original 30,0,0,0.46630123257637024,correct
+68,outside original 30,1,0,0.46913623809814453,incorrect
+69,outside original 30,0,0,0.493198961019516,correct
+7,outside original 30,1,1,0.5638467669487,correct
+70,original 30,0,0,0.4723859429359436,correct
+71,outside original 30,1,0,0.4771445691585541,incorrect
+72,outside original 30,1,0,0.46943143010139465,incorrect
+73,outside original 30,1,0,0.47208356857299805,incorrect
+74,outside original 30,0,0,0.47173547744750977,correct
+75,outside original 30,0,0,0.4755297899246216,correct
+76,outside original 30,1,0,0.4655340909957886,incorrect
+77,outside original 30,1,0,0.4984273314476013,incorrect
+78,outside original 30,1,0,0.48585543036460876,incorrect
+79,outside original 30,1,0,0.48629409074783325,incorrect
+8,outside original 30,1,0,0.473993718624115,incorrect
+80,outside original 30,1,0,0.4881201386451721,incorrect
+81,outside original 30,1,0,0.47222208976745605,incorrect
+82,outside original 30,0,0,0.46946558356285095,correct
+83,outside original 30,0,0,0.4626724123954773,correct
+84,outside original 30,0,0,0.48829931020736694,correct
+85,outside original 30,1,0,0.5042557716369629,incorrect
+86,outside original 30,1,1,0.5245160460472107,correct
+87,outside original 30,1,0,0.5123510360717773,incorrect
+89,original 30,1,1,0.5559431314468384,correct
+9,outside original 30,1,1,0.5949345231056213,correct
+90,outside original 30,1,0,0.5015152096748352,incorrect
+91,outside original 30,1,0,0.47963860630989075,incorrect
+92,outside original 30,1,0,0.4750300943851471,incorrect
+93,outside original 30,1,0,0.4907373785972595,incorrect
+94,outside original 30,1,0,0.5029692053794861,incorrect
+95,outside original 30,1,1,0.5518457293510437,correct
+96,outside original 30,1,0,0.46846845746040344,incorrect
+97,outside original 30,1,1,0.5387723445892334,correct
+98,outside original 30,1,1,0.5396105647087097,correct
+99,original 30,1,1,0.5369501113891602,correct

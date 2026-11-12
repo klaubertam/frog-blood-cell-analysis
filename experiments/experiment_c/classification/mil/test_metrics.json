@@ -1,0 +1,51 @@
+{
+  "total_images": 5,
+  "classified_images": 5,
+  "coverage": 1.0,
+  "threshold": 0.5209711194038391,
+  "confusion_matrix_rows_true_0_1": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "accuracy_classified": 0.6,
+  "correct_predictions_per_all_images": 0.6,
+  "sensitivity_anomaly": 0.6666666666666666,
+  "specificity_normal": 0.5,
+  "balanced_accuracy": 0.5833333333333333,
+  "precision_anomaly": 0.6666666666666666,
+  "f1_anomaly": 0.6666666666666666,
+  "roc_auc": 0.5,
+  "metrics_at_0_5": {
+    "total_images": 5,
+    "classified_images": 5,
+    "coverage": 1.0,
+    "threshold": 0.5,
+    "confusion_matrix_rows_true_0_1": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "accuracy_classified": 0.6,
+    "correct_predictions_per_all_images": 0.6,
+    "sensitivity_anomaly": 0.6666666666666666,
+    "specificity_normal": 0.5,
+    "balanced_accuracy": 0.5833333333333333,
+    "precision_anomaly": 0.6666666666666666,
+    "f1_anomaly": 0.6666666666666666,
+    "roc_auc": 0.5
+  },
+  "training_majority_class": 1,
+  "majority_baseline_test_accuracy": 0.6,
+  "note": "Held-out image-level pilot. Attention is influence, not proof that a cell is abnormal. Scores are not calibrated exposure probabilities."
+}

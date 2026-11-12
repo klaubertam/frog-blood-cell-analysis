@@ -1,0 +1,47 @@
+{
+  "outside_original_30": 211,
+  "scored": 211,
+  "abstentions": 0,
+  "coverage": 1.0,
+  "pilot_training_photos": 21,
+  "threshold": 0.5,
+  "majority": {
+    "n": 211,
+    "correct": 143,
+    "accuracy": 0.6777251184834123,
+    "balanced_accuracy": 0.5,
+    "sensitivity": 1.0,
+    "specificity": 0.0,
+    "tn": 0,
+    "fp": 68,
+    "fn": 0,
+    "tp": 143,
+    "auc": null
+  },
+  "logistic_same_training_photos": {
+    "n": 211,
+    "correct": 133,
+    "accuracy": 0.6303317535545023,
+    "balanced_accuracy": 0.6964212258329905,
+    "sensitivity": 0.5104895104895105,
+    "specificity": 0.8823529411764706,
+    "tn": 60,
+    "fp": 8,
+    "fn": 70,
+    "tp": 73,
+    "auc": 0.7505141916906624
+  },
+  "logistic_more_training_photos_5fold": {
+    "n": 211,
+    "correct": 134,
+    "accuracy": 0.6350710900473934,
+    "balanced_accuracy": 0.6767791032496915,
+    "sensitivity": 0.5594405594405595,
+    "specificity": 0.7941176470588235,
+    "tn": 54,
+    "fp": 14,
+    "fn": 63,
+    "tp": 80,
+    "auc": 0.7240847387906212
+  }
+}
